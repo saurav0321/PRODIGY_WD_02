@@ -17,6 +17,6 @@ This is a simple Stopwatch application built using HTML, CSS, and JavaScript. Th
 - The time is displayed in the format `HH:MM:SS`.
 
 ## Website Link
-**Visit the Site:** [https://arghya876.github.io/PRODIGY_WD_02/](https://arghya876.github.io/PRODIGY_WD_02/)
+**Visit the Site:** [https://saurav0321.github.io/PRODIGY_WD_02/](https://saurav0321.github.io/PRODIGY_WD_02/)
 
 Feel free to explore the code and try it out!
