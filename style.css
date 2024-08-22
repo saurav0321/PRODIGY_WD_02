@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(135deg, rgb(37, 0, 246), rgb(122, 0, 243));
+    background: linear-gradient(135deg, rgb(9, 148, 30), rgb(224, 41, 59));
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -13,11 +13,11 @@ body{
 }
 .stopwatch{
     width: 500px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.74),rgba(0,0,0,0.8));
+    background-image: linear-gradient(rgba(56, 9, 247, 0.74),rgba(240, 22, 22, 0.8));
     border-radius: 20px;
     text-align: center;
     padding: 40px 0;
-    color: aliceblue;
+    color: rgb(11, 11, 11);
     box-shadow: 0 10px 10px rgba(0,0,0,0.8);
 }
 .stopwatch h1{
